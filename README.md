@@ -6,7 +6,7 @@ Deployment Instructions
 1. Download the Desk Reservation App Zip (DeskBooking_20200714003020.zip) and the Desk Reservation Provisioner Zip (DeskReservationListProvisioner_20200717134944.zip)
 2. Go to flow.microsoft.com
 3. Import the Desk Reservation Provisioner Zip (DeskReservationListProvisioner_20200717134944.zip) into Power Automate
-4. Edit the Action that says "! Enter URL of SP Site to Deploy to here" and put in your SharePoint site url that you want the underlying list to reside. Keep not of that site URL.
+4. Edit the Action that says "! Enter URL of SP Site to Deploy to here" and put in your SharePoint site url that you want the underlying list to reside. Keep note of that site URL.
 
 5. If downloading the zip file (DeskReservationListProvisioner_20200717134944.zip) from this repository, 
 apply patches to Flow blocks from: 
